@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/TravelMate/static/css/main.70b1976c.chunk.css",
+    "main.js": "/TravelMate/static/js/main.df6c66c3.chunk.js",
+    "main.js.map": "/TravelMate/static/js/main.df6c66c3.chunk.js.map",
+    "runtime-main.js": "/TravelMate/static/js/runtime-main.dcdc9451.js",
+    "runtime-main.js.map": "/TravelMate/static/js/runtime-main.dcdc9451.js.map",
+    "static/css/2.b9b989d7.chunk.css": "/TravelMate/static/css/2.b9b989d7.chunk.css",
+    "static/js/2.c8da7212.chunk.js": "/TravelMate/static/js/2.c8da7212.chunk.js",
+    "static/js/2.c8da7212.chunk.js.map": "/TravelMate/static/js/2.c8da7212.chunk.js.map",
+    "index.html": "/TravelMate/index.html",
+    "static/css/2.b9b989d7.chunk.css.map": "/TravelMate/static/css/2.b9b989d7.chunk.css.map",
+    "static/css/main.70b1976c.chunk.css.map": "/TravelMate/static/css/main.70b1976c.chunk.css.map",
+    "static/js/2.c8da7212.chunk.js.LICENSE.txt": "/TravelMate/static/js/2.c8da7212.chunk.js.LICENSE.txt",
+    "static/media/offer1.e3f0604b.jpg": "/TravelMate/static/media/offer1.e3f0604b.jpg",
+    "static/media/offer2.b23ef15b.jpg": "/TravelMate/static/media/offer2.b23ef15b.jpg",
+    "static/media/offer3.6a93cf29.jpg": "/TravelMate/static/media/offer3.6a93cf29.jpg",
+    "static/media/s1.15e910a0.jpg": "/TravelMate/static/media/s1.15e910a0.jpg",
+    "static/media/s2.79827f14.jpg": "/TravelMate/static/media/s2.79827f14.jpg",
+    "static/media/s3.2d9fd099.jpg": "/TravelMate/static/media/s3.2d9fd099.jpg",
+    "static/media/s4.0de5fd94.jpg": "/TravelMate/static/media/s4.0de5fd94.jpg",
+    "static/media/s5.e4d9f109.jpg": "/TravelMate/static/media/s5.e4d9f109.jpg",
+    "static/media/s6.eb547518.jpeg": "/TravelMate/static/media/s6.eb547518.jpeg",
+    "static/media/service.06482898.jpg": "/TravelMate/static/media/service.06482898.jpg",
+    "static/media/travelmatelogo1.8fba833c.jpg": "/TravelMate/static/media/travelmatelogo1.8fba833c.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcdc9451.js",
+    "static/css/2.b9b989d7.chunk.css",
+    "static/js/2.c8da7212.chunk.js",
+    "static/css/main.70b1976c.chunk.css",
+    "static/js/main.df6c66c3.chunk.js"
+  ]
+}
