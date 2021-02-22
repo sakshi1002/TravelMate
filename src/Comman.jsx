@@ -20,8 +20,8 @@ const Comman =(props)=>{
                             </div>
                             <br></br> 
                         </div>
-                        <div className="col-lg-6 order-1 order-lg-2 col-12 col-sm-12 col-md-6 header-img">
-                            <img src={web1} style={{width:500,height:500}} className="img-fluid-animated"/>
+                        <div className="col-lg-6 order-1 order-lg-2 col-12 col-sm-12 col-md-6 header-img .d-sm-flex">
+                            <img src={web1} style={{width:470,height:470}} className="img-fluid-animated"/>
                         </div>
                         </div>
                     </div>
