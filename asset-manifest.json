@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/TravelMate/static/css/main.70b1976c.chunk.css",
-    "main.js": "/TravelMate/static/js/main.df6c66c3.chunk.js",
-    "main.js.map": "/TravelMate/static/js/main.df6c66c3.chunk.js.map",
+    "main.js": "/TravelMate/static/js/main.08e2e4ce.chunk.js",
+    "main.js.map": "/TravelMate/static/js/main.08e2e4ce.chunk.js.map",
     "runtime-main.js": "/TravelMate/static/js/runtime-main.dcdc9451.js",
     "runtime-main.js.map": "/TravelMate/static/js/runtime-main.dcdc9451.js.map",
     "static/css/2.b9b989d7.chunk.css": "/TravelMate/static/css/2.b9b989d7.chunk.css",
@@ -29,6 +29,6 @@
     "static/css/2.b9b989d7.chunk.css",
     "static/js/2.c8da7212.chunk.js",
     "static/css/main.70b1976c.chunk.css",
-    "static/js/main.df6c66c3.chunk.js"
+    "static/js/main.08e2e4ce.chunk.js"
   ]
 }
